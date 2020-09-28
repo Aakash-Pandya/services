@@ -804,10 +804,10 @@ punycode@^2.1.0:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-rambdax@3.7.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/rambdax/-/rambdax-3.7.0.tgz#bc89ced092f95521555eb24fe0a29039807a4756"
-  integrity sha512-EaV46HD0sqoFGmm0BT7cMSUXJw0l+iMCH52CkhAuByJNLC+WXE13KgxRd5UsnwdLg/tEskgPADYacOuR0zVa9Q==
+rambdax@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/rambdax/-/rambdax-6.2.0.tgz#2b47446f4ab22a4116df24566aff244fd0f70bec"
+  integrity sha512-DA8c4dzhdnpRqaoqu0d3vmG8jKnwtJyPdTeu6aanZMe67o3pnzc8z96lk/ttG1N1FetW5HMdpohH7B1w3LGPAQ==
 
 regexpp@^2.0.1:
   version "2.0.1"
