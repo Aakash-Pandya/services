@@ -82,7 +82,7 @@ commitAndPush().then((commitMessageValue: string) => {
 
 ## Usage
 
-Recommended way is to add the following in the `scripts` property of  your `package.json`
+The recommended way is to add the following in the `scripts` property of  your `package.json`
 
 ```
 {
